@@ -1,0 +1,29 @@
+{
+  "name": "sliit-react-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "filepond": "^4.4.9",
+    "filepond-plugin-image-exif-orientation": "^1.0.6",
+    "filepond-plugin-image-preview": "^4.2.1",
+    "mongoose": "^5.5.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-filepond": "^7.0.1",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "^8.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
