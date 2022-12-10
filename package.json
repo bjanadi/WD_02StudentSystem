@@ -12,7 +12,7 @@
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "filepond": "^4.4.9",
     "filepond-plugin-image-exif-orientation": "^1.0.6",
     "filepond-plugin-image-preview": "^4.2.1",
